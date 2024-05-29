@@ -1,0 +1,27 @@
+For Deployment Purpose, Run : npx next build
+
+And in the next.config.mjs file, you have to add
+
+output: 'export',
+
+& if there is any images: {} mentioned in that file then,
+
+unoptimized: true,
+
+//=======================================
+
+the 2 line code should be look like this below. You have to notice where i have put those 2 lines in the code.
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+    output: 'export',
+    images: {
+        unoptimized: true,
+        domains: [
+            "random.imagecdn.app",
+            "img.icons8.com"
+        ]
+    }
+};
+
+export default nextConfig;
