@@ -1,0 +1,17 @@
+[
+  { "id": "google",
+    "src": "Google_Logo",
+    "alt": "Google Logo",
+    "width": 50
+  },
+  { "id": "bing",
+    "src": "Bing_Logo",
+    "alt": "Bing Logo",
+    "width": 50
+  },
+  { "id": "duckduckgo",
+    "src": "Duck_Duck_Go_Logo",
+    "alt": "DuckDuckGo Logo",
+    "width": 50
+  }
+]

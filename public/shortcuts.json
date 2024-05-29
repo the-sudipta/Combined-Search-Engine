@@ -1,0 +1,42 @@
+[
+
+  {
+    "id": 1,
+    "name": "Google",
+    "url": "https://www.google.com",
+    "image": "https://img.icons8.com/color/48/google-logo.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Youtube",
+    "url": "https://www.youtube.com",
+    "image": "https://img.icons8.com/color/48/youtube-play.png"
+  },
+  {
+    "id": 3,
+    "name": "Facebook",
+    "url": "https://www.facebook.com",
+    "image": "https://img.icons8.com/color/48/facebook-new.png"
+  },
+  {
+    "id": 4,
+    "name": "Twitter",
+    "url": "https://www.twitter.com",
+    "image": "https://img.icons8.com/color/48/twitter--v1.png"
+  },
+  {
+    "id": 5,
+    "name": "Instagram",
+    "url": "https://www.instagram.com",
+    "image": "https://img.icons8.com/color/48/instagram-new--v1.png"
+  },
+  {
+    "id": 6,
+    "name": "Linkedin",
+    "url": "https://www.linkedin.com",
+    "image": "https://img.icons8.com/color/48/linkedin.png"
+  }
+
+]
+
